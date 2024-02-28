@@ -29,6 +29,7 @@ function elite_aco_report_activate() {
     // Código para ser executado na ativação do plugin
 }
 
+
 function elite_aco_report_deactivate() {
     // Código para ser executado na desativação do plugin
 }
