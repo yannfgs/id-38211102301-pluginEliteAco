@@ -11,6 +11,7 @@
     exit;
  }
 
+ 
  // Definir constantes
  define( 'ELITE_ACO_REPORT_PATH' , plugin_dir_path( __FILE__ ) );
 
