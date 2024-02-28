@@ -24,6 +24,7 @@ require_once ELITE_ACO_REPORT_PATH . 'admin/views/admin-view.php';
 register_activation_hook( __FILE__, 'elite_aco_report_activate' );
 register_deactivation_hook( __FILE__, 'elite_aco_report_deactivate' );
 
+
 function elite_aco_report_activate() {
     // Código para ser executado na ativação do plugin
 }
