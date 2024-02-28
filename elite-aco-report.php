@@ -11,13 +11,14 @@
     exit;
  }
 
- 
+
  // Definir constantes
  define( 'ELITE_ACO_REPORT_PATH' , plugin_dir_path( __FILE__ ) );
 
 //  Incluir arquivos
 require_once ELITE_ACO_REPORT_PATH . 'includes/functions.php';
 require_once ELITE_ACO_REPORT_PATH . 'admin/views/admin-view.php';
+
 
 // Funções de ativação e desativação
 register_activation_hook( __FILE__, 'elite_aco_report_activate' );
