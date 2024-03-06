@@ -8,7 +8,6 @@
 
 // Plugin Elite Aço
 
-
  // Evite chamadas diretas a este arquivo
  if ( !defined ( 'ABSPATH ' ) ) {
     exit;
