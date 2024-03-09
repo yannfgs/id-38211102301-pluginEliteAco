@@ -1,4 +1,6 @@
 <?php
+// edit
+
 /**
  * Plugin Name: Elite Aço Report
  * Description: Um plugin para gerar relatórios de vendas por status de pedido.
