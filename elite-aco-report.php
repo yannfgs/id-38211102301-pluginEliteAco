@@ -34,6 +34,7 @@ function elite_aco_report_deactivate() {
     // Código para ser executado na desativação do plugin
 }
 
+
 // Adicionar link do plugin ao menu lateral do WP Admin
 add_action( 'admin_menu', 'elite_aco_report_menu' );
 
