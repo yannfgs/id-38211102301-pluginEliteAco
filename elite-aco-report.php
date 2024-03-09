@@ -38,6 +38,7 @@ function elite_aco_report_deactivate() {
 // Adicionar link do plugin ao menu lateral do WP Admin
 add_action( 'admin_menu', 'elite_aco_report_menu' );
 
+
 function elite_aco_report_menu() {
     add_menu_page(
         'Relatórios Elite Aço',
